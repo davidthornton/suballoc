@@ -4,7 +4,6 @@
 
 #include "allocator.h"
 
-// research if there is a pre existing defn for this
 #define U_INT32_MAX 0xffffffff
 
 typedef unsigned char byte;
